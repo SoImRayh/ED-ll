@@ -1,8 +1,4 @@
-<style>
-codigo{
-    color: darkorange;
-}
-</style>
+
 <h1>Algoritmo de Ruffman para a compactaçao de dados.</h1>
 
 <h3>Linguagem ultilizada:</h3>
