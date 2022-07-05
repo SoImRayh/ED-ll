@@ -150,8 +150,8 @@ class Huffman {
 
         //mostrando no console as informações
 
-        //System.out.println("\nO HashMap do codigo de huffman e: " + huffmanCode);
-        //System.out.println("\nO texto que foi enviado e: " + text);
+        System.out.println("\nO HashMap do codigo de huffman e: " + huffmanCode);
+        System.out.println("\nO texto que foi enviado e: " + text);
 
 
         // display the encoded string
@@ -160,8 +160,8 @@ class Huffman {
             sb.append(huffmanCode.get(c));
         }
 
-        //System.out.println("\n\nTexto compactado: " + sb + "\nA quantidade de bits e:"+sb.length());
-        //System.out.print("o texto decompactado: ");
+        System.out.println("\n\nTexto compactado: " + sb + "\nA quantidade de bits e:"+sb.length());
+        System.out.print("o texto decompactado: ");
 
         if (is_Leaf(root_node)) {
             // For input like a, aa, aaa, etc.
