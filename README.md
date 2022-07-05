@@ -116,3 +116,4 @@ arquivos pequenos talvez maior que o tamanho original ou muito proximos do origi
 <p> Mas quanto maior o arquivo de texto melhor! porque os caracteres se repetem e o custo para armazená-los compactados 
 é menor que o custo em armazená-los de forma bruta:</p>
 <div><img src="imagem/EntradaMaior.png" alt="entrada maior"><img src="imagem/ArquivozinMaior.png" alt="arquivozinmaior"></div>
+<p>essas altas taxas de compactação são resultados da conversão de palavras em tabela asc para ascii com 16 bits em que cabe-se mais simplificações que em apenas 8 bits</p>
