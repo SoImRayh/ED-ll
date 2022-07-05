@@ -1,5 +1,5 @@
 
-<h1>Algoritmo de Ruffman para a compactaçao de dados.</h1>
+<h1>Algoritmo de Huffman para a compactaçao de dados.</h1>
 
 <h3>Linguagem ultilizada:</h3>
 
